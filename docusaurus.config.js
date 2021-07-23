@@ -2,11 +2,11 @@
 module.exports = {
   title: 'Relay Chain',
   tagline: 'Project Reference Guide',
-  url: 'https://relay.masternode.io/',
+  url: 'https://docs.relaychain.com/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'masternodeh', 
-  projectName: 'zero-docs',
+  organizationName: 'relaychain', 
+  projectName: 'relay-docs',
   themeConfig: {
     navbar: {
       title: 'Project Reference Guide',
@@ -23,7 +23,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/masternodeh/relay-docs/',
+          href: 'https://github.com/relaychain/relay-docs/',
           label: 'GitHub',
           position: 'right',
         },
@@ -110,12 +110,12 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/masternodeh/relay-docs/edit/master/',
+            'https://github.com/relaychain/relay-docs/edit/master/',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/masternodeh/relay-docs/edit/master/',
+            'https://github.com/relaychain/relay-docs/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
