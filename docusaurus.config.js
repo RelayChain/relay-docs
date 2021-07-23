@@ -110,12 +110,12 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/relaychain/relay-docs/edit/master/',
+            'https://github.com/relaychain/relay-docs/edit/main/',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/relaychain/relay-docs/edit/master/',
+            'https://github.com/relaychain/relay-docs/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
