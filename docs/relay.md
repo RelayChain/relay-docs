@@ -23,7 +23,9 @@ image:  /static/avax-logo.svg
 
 RELAY is a multi cross-chain platform: Bridges and a DEX.
 
-Supported chains:  
+
+### Supported chains  
+
 * Currently:  
   * Ethereum
   * Avalanche
@@ -31,3 +33,11 @@ Supported chains:
   * Polygon (Matic)
 * Done, waiting for the parachains to go live:  
   * Kusama/DOT
+
+Tokens can be cross-chained from any of these chains to the others.  
+Based on the number of chains supported, there are 10 possible bridges between chains.
+
+### Baas (Bridging as a Service)
+
+
+
