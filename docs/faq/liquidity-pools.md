@@ -1,5 +1,5 @@
 ---
-id: liquiditypools 
+id: liquidity-pools 
 title: Liquidity Pools - How-to Guides
 sidebar_label: Liquidity Pools
 hide_title: false
