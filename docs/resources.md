@@ -1,14 +1,17 @@
 ---
 id: resources 
-title: Relay Chain Resources
-sidebar_label: Relay Chain Resources 
+title: Relay Chain - Resources
+sidebar_label: Relay Chain - Resources 
 hide_title: false
 hide_table_of_contents: false
-description: Relay Chain Resources
+description: Relay Chain - Community Resources
 keywords: 
- - relay
- - docs
- - zero
+ - "relay"
+ - "docs"
+ - "zero"
+ - "Community"
+ - "Resources"
+ 
 image:  /static/img/relay-icon.e8d6824b.svg
 ---
 import Tabs from '@theme/Tabs';

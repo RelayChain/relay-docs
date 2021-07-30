@@ -6,11 +6,20 @@ hide_title: false
 hide_table_of_contents: false
 description: Relay Chain Bridge - BaaS (Bridging as a Service)
 keywords: 
- - relay
- - docs
- - zero
- - introduction
- - intro
+ - "relay"
+ - "docs"
+ - "zero"
+ - "BaaS"
+ - "bridging"
+ - "blockchains"
+ - "Avalanche"
+ - "AVAX"
+ - "DOT"
+ - "KUSAMA"
+ - "MATIC"
+ - "ETHEREUM"
+ - "DEX"
+ 
 image:  /static/img/relay-icon.e8d6824b.svg
 ---
 import Tabs from '@theme/Tabs';

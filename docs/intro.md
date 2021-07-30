@@ -1,10 +1,10 @@
 ---
 id: intro 
-title: Relay Chain Introduction
-sidebar_label: Intro to Relay
+title: Relay Chain - Introduction
+sidebar_label: Relay Chain - Introduction
 hide_title: false
 hide_table_of_contents: false
-description: Relay Chain Introduction
+description: Relay Chain - Introduction
 keywords:  
  - "ZERO Exchange"
  - "$ZERO"
@@ -16,6 +16,7 @@ keywords:
  - "MATIC"
  - "ETHEREUM"
  - "DEX"
+ 
 image:  /static/img/relay-icon.e8d6824b.svg
 ---
 import Tabs from '@theme/Tabs';
