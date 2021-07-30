@@ -47,7 +47,7 @@ A portion of the fees also goes to buying back and burning the RELAY token makin
 
 Our goal at Relay Chain is simple, *"Have the best and safest bridge"*. 
 We will provide value to our token holders by giving them native gas tokens for providing liquidity instead of our native project token (RELAY). 
-By doing this we eliminate all sell pressure to Relay and we can give the highest APY's to [Relay Liquidity Providers](faq/liquidity-pools). 
+By doing this we eliminate all sell pressure to Relay and we can give the highest APY's to [Relay Liquidity Providers](../faq/liquidity-pools). 
 This allows us to have a token that provides value, and it's deflationary (via buyback and burns) which is doing with a portion of the gas token profits from bridge transactional volume. 
 The brings the positive feedback loops and true ecosystem synergy into the Relay Chain ecosystem where all partners provide utility to the end users of our platform.
 
