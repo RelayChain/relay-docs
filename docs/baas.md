@@ -64,9 +64,13 @@ Based on the number of chains supported, there are 20 possible bridges between c
 The fees that are paided to use the Relay Chain bridges will depend on which chain your liquidity lives on and is trying to move to:
 
 From Ethereum to another chain: 0.056 ETH
+
 From Avax to another chain: 1.00 AVAX
+
 From Polygon to another chain: 10.00 MATIC
+
 From BSC to another chain: 0.07 BNB
+
 
 Fees are paid in the gas token you use the Relay Chain bridge to move from. For example, if you bridge tokens from the Ethereum to the Avalanche chain, the transaction fees will be paid in ETH and would cost the above fee in Ethereum.
 
