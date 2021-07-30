@@ -88,7 +88,7 @@ There is an incredible value add here and further differentiation from other pro
 The GTI (Gas Token Index) rewards, is an incredibly simple, elegant, and market agnostic platform (bull, bear, and anything in between). 
 People will still use our bridge to arb assets, that creates volume, gas token fees, and value back to our token holders/liquidity providers). Many other projects are only as successful as the overall market allows. Relay should do well in any market. Again, this is the simple, elegant utility that relaychain.com will bring to DeFi.
 
-# Insurance for Liquidity Pools
+## Insurance for Liquidity Pools
 
 [The secure way to DeFi](https://www.youtube.com/watch?v=PKdkLm-EDng)
 
@@ -96,7 +96,7 @@ By working with our industry partner and public relayer Bridge Mutual we are abl
 For example you wanted to add $25,000 of liquidity to one of our LP's for the duration of a 6 months you could go to our insurance partner Bridge Mutual and purchase a policy that offers 6 months of coverage for your $25,000. 
 During the initial liquidity launch of Bridge Mutual our community formed team recently *WON* the BMI liquidity event with over $2M committed.
 
-# Contract Audits
+## Contract Audits
 
 To date the Relay Chain contracts have been or are undergoing audits from the following partners:
 
@@ -105,6 +105,12 @@ To date the Relay Chain contracts have been or are undergoing audits from the fo
 	*Halborn* (being currently completed)
 	
 This will bring the total number of completed audits to 3 and the strength of the Relay BaaS platform continues to grow at a pace that is leaving other briding platforms behind.
+
+
+
+
+
+
 
 :::tip
 **If you feel like leaving the members of the team that work on this documentation a tip**
