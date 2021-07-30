@@ -28,7 +28,7 @@ August 2, 2021 - Relay Chain goes live so save the date!
 
 <img alt="Bridging as a Service" src={useBaseUrl('/img/relay-intro-header.png')} />
 
-# What is RELAY?
+## What is RELAY?
  
 [Bridging as a Service - Relay Chain is the secure way to DeFi](https://www.youtube.com/watch?v=NCZooRzXUQw)
 
@@ -42,7 +42,7 @@ Relay Chain is ZERO reimagined. Zero started off as a DEX but the DEX space is e
 So with RELAY we become the Bridge that connects DeFi — with an extremely unique tokenomics model that rewards LPs with gas token rewards (ETH, MATIC, BNB, HT, and AVAX) which we are coining the Gas Token Index but the bridge collects fees and rewards those fees to those providing liquidity. 
 A portion of the fees also goes to buying back and burning the RELAY token making it deflationary
 
-# Mission Statement
+## Mission Statement
 
 Our goal at Relay Chain is simple, *"Have the best and safest bridge"*. 
 We will provide value to our token holders by giving them native gas tokens for providing liquidity instead of our native project token (RELAY). 
@@ -50,7 +50,22 @@ By doing this we eliminate all sell pressure to Relay and we can give the highes
 This allows us to have a token that provides value, and it's deflationary (via buyback and burns) which is doing with a portion of the gas token profits from bridge transactional volume. 
 The brings the positive feedback loops and true ecosystem synergy into the Relay Chain ecosystem where all partners provide utility to the end users of our platform.
 
-# Supported chains  
+## Tokenomics
+
+Tokenomics:
+
+Total Supply: 10,000,000 $RELAY
+Zero to Relay Swap Ratio: 100:1
+
+1. Advisors — 4% — tokens are fully locked, if an advisor is signed, they received 10% of their tokens after 30 days, 15% after 60 days, and the remaining 25% each quarter thereafter.
+1. IDO — 2.5% — Initial DEX Offering, helps enable us to bootstrap liquidity on the initial RELAY pools. Vested over 4 days. 20% on TGE and 20% daily.
+1. Legacy Zero Holders — 1% — Snapshots already taken. Weighted based on current ZERO holdings. Linearly vests each day for 6 months. Fully vested 12/2021
+1. Network Growth Fund — 25% — Linearly vests each day for 2 years. Helps incentivize developers and partners to build on/with RELAY. Fully vested 6/2023.
+1. Community Incentives — 15% — As needed (for liquidity mining for example) — 24 hour timeclock to withdraw any funds from the incentives contract. The community will be notified of the withdraw and an event will be broadcast on blockchain.
+1. Team — 10% — 6 month cliff. Linearly vests each day for 1 year each day after the expiration of the 6 month cliff. Fully vested 12/2022.
+1. Marketing — 7.5% — Linearly vests each day for 2 years. Fully vested 6/2023
+
+## Supported chains  
 
 * Currently:  
   * Ethereum
@@ -71,14 +86,14 @@ The brings the positive feedback loops and true ecosystem synergy into the Relay
 Tokens can be cross-chained from any of these chains to the others.  
 Based on the number of chains supported, there are 20 possible bridges between chains today with a possibility to grow to over 100 in the near future.
 
-# Baas (Bridging as a Service)
+## Baas (Bridging as a Service)
 
 [Building a bulletproof multi-chain BaaS](https://www.youtube.com/watch?v=AQ-rdZYDnpY)
 
 Bridging as a Service, any project can use our bridge to go cross chain, any project or platform that wants to connect their ecosystem to another EVM blockchain can do so, all natively to their app and with the same look and feel for users to feel familiar. 
 Our first integration parter will be coming very soon with QuickSwap as they will be whitelabeling our bridge natively on their app we will start by connecting them from Polygon to Avalanche. We are also the only bridging service in the space to have not 1 but three audits 
 
-# Gas Token Index
+## Gas Token Index
 
 That refers to our unique rewards for liquidity providers, we pay out in native gas tokens (gas token index). Said another way if you provide RELAY/AVAX liquidity, you get paid in native AVAX, if you provide liquidity for RELAY/MATIC you'll get native Matic as rewards. 
 This is not done by anyone else in the space and it provides incredible value to our token holders. It eliminates sell pressure and rewards in tokens that are highly liquid and ultimately gives the token holder a ton of choice. 
@@ -105,11 +120,6 @@ To date the Relay Chain contracts have been or are undergoing audits from the fo
 	*Halborn* (being currently completed)
 	
 This will bring the total number of completed audits to 3 and the strength of the Relay BaaS platform continues to grow at a pace that is leaving other briding platforms behind.
-
-
-
-
-
 
 
 :::tip
