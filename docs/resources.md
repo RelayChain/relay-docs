@@ -38,7 +38,6 @@ This page is great designed to give you easy access to the Relay Chain ecosystem
 
 ** [Trading channel](https://t.me/RelayTrading) **
 
-
 ### Twitter
 ** [Official Zero Exchange](https://twitter.com/OfficialZeroDEX) **
 

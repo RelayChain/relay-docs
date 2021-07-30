@@ -122,7 +122,7 @@ To date the Relay Chain contracts have been or are undergoing audits from the fo
 	*Consensys Diligence*
 	*Halborn* (being currently completed)
 	
-This will bring the total number of completed audits to 3 and the strength of the Relay BaaS platform continues to grow at a pace that is leaving other briding platforms behind.
+This will bring the total number of completed audits to 3 and the strength of the Relay Chain BaaS platform continues to grow at a pace that is leaving other bridging platforms behind.
 
 
 <!--truncate-->
