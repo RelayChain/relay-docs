@@ -1,10 +1,10 @@
 ---
 id: resources 
 title: Resources - Relay Academy
-sidebar_label: Resources 
+sidebar_label: Relay Resources 
 hide_title: false
 hide_table_of_contents: false
-description: Resources - Relay Academy
+description: Relay Resources - Relay Academy
 keywords: 
  - relay
  - docs
