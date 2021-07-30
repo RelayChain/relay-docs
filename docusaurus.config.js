@@ -5,7 +5,7 @@ module.exports = {
   url: 'https://docs.relaychain.com/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'relaychain', 
+  organizationName: 'Relay Chain', 
   projectName: 'relay-docs',
   themeConfig: {
     navbar: {
