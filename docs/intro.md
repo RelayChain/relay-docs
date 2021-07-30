@@ -55,9 +55,9 @@ The brings the positive feedback loops and true ecosystem synergy into the Relay
 
 Tokenomics:
 
-*Total Supply: 10,000,000 $RELAY*
+** Total Supply: 10,000,000 $RELAY **
 
-*Zero to Relay Swap Ratio: 100:1*
+** Zero to Relay Swap Ratio: 100:1 **
 
 1. Advisors — 4% — tokens are fully locked, if an advisor is signed, they received 10% of their tokens after 30 days, 15% after 60 days, and the remaining 25% each quarter thereafter.
 1. IDO — 2.5% — Initial DEX Offering, helps enable us to bootstrap liquidity on the initial RELAY pools. Vested over 4 days. 20% on TGE and 20% daily.
