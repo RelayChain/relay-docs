@@ -38,20 +38,23 @@ We haved designed this white labelled BaaS integration so that partners can easi
 ## Supported chains  
 
 Currently:  
-  ** Ethereum **
-  ** Avalanche **
-  ** Polygon **
-  ** Heco **
-  ** BSC **
+
+1.  ** Ethereum **
+1.  ** Avalanche **
+1.  ** Polygon **
+1.  ** Heco **
+1.  ** BSC **
 
 Done (waiting for the parachains to go live): 
-  ** Moonbeam ** (Kusama)
-  ** DOT **
+
+1.  ** Moonbeam ** (Kusama)
+1.  ** DOT **
 
 In Development:
-  ** Cosmos **
-  ** Fantom **
-  ** Solana **
+
+1.  ** Cosmos **
+1.  ** Fantom **
+1.  ** Solana **
 
 Tokens can be cross-chained from any of these chains to the others.  
 Based on the number of chains supported, there are 20 possible bridges between chains today with a possibility to grow to over 100 in the near future.

@@ -18,9 +18,6 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-
-# Relay Chain Resources
-
 This page is great designed to give you easy access to the Relay Chain ecosystem.
 
 ## Communities and social media
@@ -36,12 +33,17 @@ This page is great designed to give you easy access to the Relay Chain ecosystem
 
 ### Telegram
 ** [Announcement channel](https://t.me/relaychainannouncements) **
+
 ** [Main channel](https://t.me/relaychaincommunity) **
+
 ** [Trading channel](https://t.me/RelayTrading) **
+
 
 ### Twitter
 ** [Official Zero Exchange](https://twitter.com/OfficialZeroDEX) **
-** [Project lead, Gram](https://twitter.com/GramCustodian) ** 
+
+** [Project lead, Gram](https://twitter.com/GramCustodian) **
+ 
 ** Tags to find Relay Chain on Twitter: $RELAY **
 
 ### Discord
