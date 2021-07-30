@@ -1,10 +1,10 @@
 ---
 id: intro 
-title: Relay Intro - Relay Academy
+title: Relay Chain Introduction
 sidebar_label: Intro to Relay
 hide_title: false
 hide_table_of_contents: false
-description: Relay Intro - Relay Academy
+description: Relay Chain Introduction
 keywords:  
  - "ZERO Exchange"
  - "$ZERO"
@@ -22,12 +22,14 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-:::caution
-These docs are provided for your reference but are intended to be used by you at your own risk
+:::important
+August 2, 2021 - Relay Chain goes live so save the date!
 :::
 
-# What is RELAY?
+<img alt="Bridging as a Service" src={useBaseUrl('/img/relay-intro-header.png')} />
 
+# What is RELAY?
+ 
 [Bridging as a Service - Relay Chain is the secure way to DeFi](https://www.youtube.com/watch?v=NCZooRzXUQw)
 
 RELAY is a multi cross-chain platform developed to bring BaaS (Bridging as a Service) to help the often fragmented DeFi liquidity space. 
