@@ -23,7 +23,7 @@ const features = [
     imageUrl: 'img/relay-icon.e8d6824b.svg',
     description: (
       <>
-	Businesses interested in using BaaS and joining the Relaychain ecosystem should dive into this section to help them
+	Businesses interested in using BaaS and joining the Relay Chain Ecosystem should dive into this section to help them
 	understand how the Relay Chain Ecosystem can help their business.
       </>
     ),
