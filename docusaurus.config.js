@@ -33,65 +33,37 @@ module.exports = {
       style: 'light',
       links: [
         {
-          title: 'Guides',
+          title: 'About',
           items: [
             {
-              label: 'Ethereum (ETH) Guides',
-              to: 'docs/eth/',
+              label: 'What is Relay Chain',
+              to: 'docs/intro/',
             },
             {
-              label: 'Avalanche (AVAX) Guides',
-              to: 'docs/avax/',
-            },
-            {
-              label: 'Smart-Chain (BNB) Guides',
-              to: 'docs/bsc/',
-            },
-			{
-              label: 'Solana (SOL) Guides',
-              to: 'docs/sol/',
-            },
-            {
-              label: 'Mobile Guides',
-              to: 'docs/mobile/',
+              label: 'What is BaaS ',
+              to: 'docs/baas/',
             },
           ],
         },
 		{
-          title: 'Explainers',
+          title: 'FAQ',
           items: [
             {
-              label: 'What is Impermanent Loss',
-              to: 'docs/il/',
+              label: 'How to enter LP',
+              to: 'docs/faq/liquidity-pools',
             },
             {
-              label: 'How to Buy Zero',
-              to: 'docs/howtobuyzero/',
-            },
-            {
-              label: 'About the Zero Exchange',
-              to: 'docs/whatiszeroexchange/',
+              label: 'How to swap Zero for Relay',
+              to: 'docs/faq/swap-zero/',
             },
           ],
         },
         {
-          title: 'Faq',
+          title: 'Community',
           items: [
            {
-             label: 'Which wallet to use?',
-             to: 'docs/faq/faq001',
-           },
-           {
-             label: 'Which brower to use?',
-             to: 'docs/faq/faq002',
-           },
-           {
-             label: 'Zero contract addresses?',
-             to: 'docs/faq/faq003',
-           },
-           {
-             label: 'IDO Allocation Questions',
-             to: 'docs/faq/faq007',
+             label: 'Community Resources',
+             to: 'docs/resources',
            },
            {
               label: 'Blog',
