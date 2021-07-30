@@ -1,5 +1,5 @@
 ---
-id: swapzero 
+id: swap-zero 
 title: Swapping Zero for Relay - How-to Guide
 sidebar_label: Swap Zero for Relay
 hide_title: false

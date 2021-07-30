@@ -1,7 +1,7 @@
 ---
 id: intro 
 title: Relay Intro - Relay Academy
-sidebar_label: Introduction 
+sidebar_label: Intro to Relay
 hide_title: false
 hide_table_of_contents: false
 description: Relay Intro - Relay Academy
