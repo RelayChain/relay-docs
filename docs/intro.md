@@ -26,7 +26,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 August 2, 2021 - Relay Chain goes live so save the date!
 :::
 
-<img alt="Bridging as a Service" src={useBaseUrl('/img/relay-intro-header.png')} />
+<img alt="Relay Chain Introduction" src={useBaseUrl('/img/relay-intro-header.png')} />
 
 ## What is RELAY?
  
@@ -124,6 +124,7 @@ To date the Relay Chain contracts have been or are undergoing audits from the fo
 This will bring the total number of completed audits to 3 and the strength of the Relay BaaS platform continues to grow at a pace that is leaving other briding platforms behind.
 
 
+<!--truncate-->
 :::tip
 **If you feel like leaving the members of the team that work on this documentation a tip**
 
