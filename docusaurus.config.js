@@ -62,7 +62,7 @@ module.exports = {
           title: 'Community',
           items: [
            {
-             label: 'Community Resources',
+             label: 'Resources',
              to: 'docs/resources',
            },
            {
