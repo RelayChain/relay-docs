@@ -79,8 +79,8 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Project Ref Guide`}
-      description="Project Reference Guide">
+      title={`Project Reference Guide`}
+      description="Brought to you by Relay Chain">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
@@ -91,24 +91,24 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/whatiszeroexchange')}>
-              Consumers 
+              to={useBaseUrl('docs/intro')}>
+              Intro 
             </Link>
             <Link
               className={classnames(
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/relay/relaylaunch')}>
-              Businesses 
+              to={useBaseUrl('docs/baas')}>
+              BaaS 
             </Link>
             <Link
               className={classnames(
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/faq')}>
-              Developers 
+              to={useBaseUrl('docs/resources')}>
+              Devs
             </Link>
           </div>
         </div>

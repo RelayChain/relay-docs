@@ -1,15 +1,15 @@
 ---
 id: ticket-format
-title: Mod community - Ticket format
-sidebar_label: Mod community - Ticket format
+title: Relay Chain - Ticket Format
+sidebar_label: Relay Chain - Ticket Format
 hide_title: true
 hide_table_of_contents: true
-description: Mod community - Ticket format
+description: Relay Chain - Ticket Format
 keywords:
  - "ZERO Exchange"
  - "$ZERO"
  - "@OfficialZeroDEX"
-image:  /static/avax-logo.svg
+image:  /static/img/relay-icon.e8d6824b.svg
 ---
 
 import Tabs from '@theme/Tabs';
