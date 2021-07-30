@@ -1,10 +1,10 @@
 ---
-id: liquidity-pools 
-title: Liquidity Pools - How-to Guides
-sidebar_label: Liquidity Pools
+id: swapzero 
+title: Swapping Zero for Relay - How-to Guide
+sidebar_label: Swap Zero for Relay
 hide_title: false
 hide_table_of_contents: false
-description: Liquidity Pools - How-to Guides
+description: Swapping Zero for Relay - How-to Guide
 keywords: 
  - relay
  - docs
@@ -21,7 +21,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 These docs are provided for your reference but are intended to be used by you at your own risk
 :::
 
-# Liquidity Pools
+# Swapping Zero for Relay
 
 
 
