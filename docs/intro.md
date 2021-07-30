@@ -93,7 +93,7 @@ Based on the number of chains supported, there are 20 possible bridges between c
 [Building a bulletproof multi-chain BaaS](https://www.youtube.com/watch?v=AQ-rdZYDnpY)
 
 Bridging as a Service, any project can use our bridge to go cross chain, any project or platform that wants to connect their ecosystem to another EVM blockchain can do so, all natively to their app and with the same look and feel for users to feel familiar. 
-Our first integration parter will be coming very soon with QuickSwap as they will be whitelabeling our bridge natively on their app we will start by connecting them from Polygon to Avalanche. We are also the only bridging service in the space to have not 1 but three audits 
+Our first integration partner will be coming very soon with QuickSwap as they will be whitelabeling our bridge natively on their app we will start by connecting them from Polygon to Avalanche. We are also the only bridging service in the space to have not 1 but three audits 
 
 ## Gas Token Index
 
