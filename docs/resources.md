@@ -18,7 +18,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-This page is great designed to give you easy access to the Relay Chain ecosystem.
+This page is designed to give you easy access to the most used resources in the Relay Chain ecosystem.
 
 ## Communities and social media
 
