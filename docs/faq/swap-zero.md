@@ -67,7 +67,9 @@ It's a 2 step process: Approve the swap request, then do the swap.
 
 1. Confirm in MetaMask the transaction. Depending on the state of the network, you may have to adjust gas settings.  
 
-1. No screenshots yet for the rest of the process: If the swap was successful, system will say so.  
+1. When it's successful, you will see the total amount of Relay you hold on the network you just swapped on.  
+<img alt="Picture" src={useBaseUrl('/img/faqs/swapZero-07.png')} />
+
 
 
 Note for the period between August 3rd and August 10th:
