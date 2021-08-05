@@ -54,6 +54,7 @@ It's a 2 step process:
 1. Make sure that your wallet is connected and you are on the chain you want to swap your ZERO to RELAY.  
 <img alt="Picture" src={useBaseUrl('/img/faqs/swapZero-02.png')} />
 
+1. if there is a disabled "Swap" button (between August 3rd and August 10th), it means that there is no RELAY available on that chain to swap.  Either bridge your ZERO and try on another chain, either wait for the day after (see swap schedule above).
 
 1. Click on max or enter manually the number of ZERO to swap (=> for example, between August 3rd and August 10th, if there are not enough RELAY left to swap to on the selected chain).  Click on "Approve" to start the process.  
 <img alt="Picture" src={useBaseUrl('/img/faqs/swapZero-03.png')} />
