@@ -71,8 +71,10 @@ It's a 2 step process:
 
 
 Note for the period August 3rd > August 10th:
-* Swap transaction was pending until timing out by itself.   Team decided once to supply more tokens on some chains, so pending transactions went through for some users.
-* If not successful: Team may have implemented a specific message to warn that the RELAY supply was deleted that day.   The FAQ will be updated once the improvements are released.
+* If the RELAY tokens were depleted at the time of the swap, swap transaction was pending until timing out by itself.  
+Team decided once to supply more tokens on some chains, so pending transactions went through for some users.
+* If not successful: Team may have implemented a specific message to warn that the RELAY supply was deleted that day.  
+The FAQ will be updated once the improvements are released.
 
 
 
