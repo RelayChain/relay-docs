@@ -49,7 +49,7 @@ After August 10th, all the remaining RELAY will be available to swap until Septe
 Go to the page https://app.relaychain.com/#/relay-sale  
 It's a 2 step process:
 - Approve the swap request   
-- Do the swap
+- Do the swap  
 
 1. Make sure that your wallet is connected and you are on the chain you want to swap your ZERO to RELAY.  
 <img alt="Picture" src={useBaseUrl('/img/faqs/swapZero-02.png')} />
