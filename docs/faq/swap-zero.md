@@ -70,7 +70,7 @@ It's a 2 step process:
 1. No screenshots yet for the rest of the process: If the swap was successful, system will say so.  
 
 
-Note for the period August 3rd > August 10th:
+Note for the period between August 3rd and August 10th:
 * If the RELAY tokens were depleted at the time of the swap, swap transaction was pending until timing out by itself.  
 Team decided once to supply more tokens on some chains, so pending transactions went through for some users.
 * If not successful: Team may have implemented a specific message to warn that the RELAY supply was deleted that day.  
