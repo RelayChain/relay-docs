@@ -76,7 +76,10 @@ Note for the period between August 3rd and August 10th:
 * If the RELAY tokens were depleted at the time of the swap attempt, swap transaction was pending until timing out by itself.  
 Team decided once to supply more tokens on some chains, so pending transactions still went through for some users..
 
-
+RELAY contract addresses:
+* MATIC: 0x904371845Bc56dCbBcf0225ef84a669b2fD6bd0d   
+* BSC: 0xE338D4250A4d959F88Ff8789EaaE8c32700BD175  
+* ETH: 0x5d843fa9495d23de997c394296ac7b4d721e841c
 
 
 :::tip
