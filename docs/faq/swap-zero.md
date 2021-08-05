@@ -38,8 +38,8 @@ Normally, ZERO can be swapped to RELAY on any of these chains: Polygon, Ethereum
 
 Team may announce that on a particular days, only a part of the chains are supported, follow their announcement on Telegram https://t.me/relaychainannouncements  
 
-Between August 3rd and August 10th, there is a daily limit on how much RELAY is available to swap: The supply is distributed on all chains supporting the swap.  
-When the swap can start on a particular day (typically from 2pm EST) and the supply of one chain has been depleted: You can cross chain your ZERO to another chain, to try swapping to RELAY on another chain.
+Between August 3rd and August 10th, there is a daily limit on how much RELAY is available to swap: The supply is distributed across all chains supporting the swap.  
+When the swap can start on a particular day (typically from 2pm EST) and the supply of one chain has been depleted: You can cross chain your ZERO to another chain, to try swapping to RELAY on another chain (https://app.relaychain.com/#/transfer).
 
 After August 10th, all the remaining RELAY will be available to swap until September 12th, without any daily limit.
 
