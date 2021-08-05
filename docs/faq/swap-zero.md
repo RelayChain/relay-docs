@@ -46,7 +46,7 @@ After August 10th, all the remaining RELAY will be available to swap until Septe
 
 ## How to swap ZERO to RELAY
 
-1. Go to the page https://app.relaychain.com/#/relay-sale  
+Go to the page https://app.relaychain.com/#/relay-sale  
 It's a 2 step process:
 - Approve the swap request   
 - Do the swap
