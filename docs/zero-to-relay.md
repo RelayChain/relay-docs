@@ -18,7 +18,9 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-As the great Bruce Buffer would say, "IT'S TIME!!!!!!!!!!!!!!". 
+<img alt="Relay Chain Introduction" src={useBaseUrl('/img/relay-intro-header.png')} />
+
+** As the great Bruce Buffer would say, "IT'S TIME!!!!!!!!!!!!!!" **
 
 The migration from Zero to Relay has finally arrived and this document is going to help you get started in your journey to Relay Chain. 
 
