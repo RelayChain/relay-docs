@@ -29,6 +29,10 @@ August 2, 2021 - Relay Chain goes live so save the date!
 
 <img alt="Relay Chain Introduction" src={useBaseUrl('/img/relay-intro-header.png')} />
 
+## White Paper
+
+[Relay Chain - Boomer Paper](https://www.relaychain.com/whitepaper)
+
 ## What is RELAY?
  
 [Bridging as a Service - Relay Chain is the secure way to DeFi](https://www.youtube.com/watch?v=NCZooRzXUQw)
