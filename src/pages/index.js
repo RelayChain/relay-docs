@@ -9,7 +9,7 @@ import { firstRow } from "../data/features";
 
 const features = [
   {
-    title: <>Consumers </>,
+    title: <>Intro </>,
     imageUrl: 'img/relay-icon.e8d6824b.svg',
     description: (
       <>
@@ -19,17 +19,17 @@ const features = [
     ),
   },
   {
-    title: <>Businesses </>,
+    title: <>BaaS </>,
     imageUrl: 'img/relay-icon.e8d6824b.svg',
     description: (
       <>
-	Businesses interested in joining the Relaychain ecosystem should dive into this section to help them
-	understand how the Relay Chain Ecosytem can help your business.
+	Businesses interested in using BaaS and joining the Relay Chain Ecosystem should dive into this section to help them
+	understand how the Relay Chain Ecosystem can help their business.
       </>
     ),
   },
   {
-    title: <>Developers</>,
+    title: <>Devs</>,
     imageUrl: 'img/relay-icon.e8d6824b.svg',
     description: (
       <>
@@ -79,8 +79,8 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Project Ref Guide`}
-      description="Project Reference Guide">
+      title={`Project Reference Guide`}
+      description="Brought to you by Relay Chain">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
@@ -91,24 +91,24 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/whatiszeroexchange')}>
-              Consumers 
+              to={useBaseUrl('docs/intro')}>
+              Intro 
             </Link>
             <Link
               className={classnames(
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/relay/relaylaunch')}>
-              Businesses 
+              to={useBaseUrl('docs/baas')}>
+              BaaS 
             </Link>
             <Link
               className={classnames(
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/faq')}>
-              Developers 
+              to={useBaseUrl('docs/resources')}>
+              Devs
             </Link>
           </div>
         </div>
