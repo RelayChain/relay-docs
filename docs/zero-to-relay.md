@@ -57,6 +57,14 @@ Let's go through the process
 
 <img alt="Zero to Relay" src={useBaseUrl('/img/z2r/zero-to-relay11.png')} />
 
+## Relay Contract Addresses
+
+MATIC: 0x904371845Bc56dCbBcf0225ef84a669b2fD6bd0d   
+
+BSC: 0xE338D4250A4d959F88Ff8789EaaE8c32700BD175  
+
+ETH: 0x5d843fa9495d23de997c394296ac7b4d721e841c
+
 :::tip
 **If you feel like leaving the members of the team that work on this documentation a tip**
 
