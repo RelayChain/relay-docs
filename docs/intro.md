@@ -42,7 +42,7 @@ What is really unique to our bridge is that when a new ecosystem is created, our
 At launch we currently support bridging to Ethereum, BSC, Avalanche, Polygon (Matic), and Heco — with more coming soon. 
 Relay's bridges were first to introduce the bridge gas token faucet to Defi where the bridge itself airdrops the native gas token to new users to reduce friction for people starting out on new chains.
 
-We have built many products during our tenor in DLT but during the last 6 months and after completing the first brdige to Avalanche we realized that safe and secure briding will be a corner stone of DeFi and we dropped everything to bring this reality to our users.
+We have built many products during our tenor in DLT but during the last 6 months and after completing the first bridge to Avalanche we realized that safe and secure bridging will be a corner stone of DeFi and we dropped everything to bring this reality to our users.
 Relay Chain is ZERO reimagined. Zero started off as a DEX but the DEX space is extremely crowded. We ultimately honed in on the aspect we do the absolute best. **BRIDGING**. 
 So with RELAY we become the Bridge that connects DeFi — with an extremely unique tokenomics model that rewards LPs with gas token rewards (ETH, MATIC, BNB, HT, and AVAX) which we are coining the Gas Token Index but the bridge collects fees and rewards those fees to those providing liquidity. 
 A portion of the fees also goes to buying back and burning the RELAY token making it deflationary
